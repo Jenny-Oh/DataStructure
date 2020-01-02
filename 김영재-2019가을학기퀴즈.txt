@@ -1,0 +1,12 @@
+<자료구조 퀴즈>
+1. Tree
+1) 완전이진 트리의 높이가 h라고 할 때 최소 노드의 개수? 2^(h-1) + 1
+2) "" 최대 노드의 개수? 2^h -1
+2. Binary Tree Traversal
+inorder, preorder, postorder 빈칸 채우기
+3. level-order tree traversal 
+=> pseudocode 작성하기
+4. 이진트리의 예시를 주고 inorder, postorder, preorder, level-order로 출력하기
+5. Heaps
+1) deleting 3 elements from min heap => 각 과정에서의 트리 그리기
+2) inserting 2 numbers to max heap => ""
